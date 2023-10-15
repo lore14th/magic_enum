@@ -51,7 +51,4 @@ _deps
 
 ### Bazel build artifacts ###
 /bazel-*
-
-##
-bin-int
-*.vcxproj
+/test/bazel-*
