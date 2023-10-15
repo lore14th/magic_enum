@@ -2,6 +2,9 @@ build/
 .vscode/
 .vs/
 
+## Tinfoil ##
+*.vcxproj
+
 ### C++ gitignore ###
 # Prerequisites
 *.d
